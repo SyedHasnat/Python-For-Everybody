@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SyedHasnat
-- 👀 I’m interested in machine leanring and electrical engineering projects
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on AI
-- 📫 Contact me at eng.syed.its@gmail.com
-
-<!---
-SyedHasnat/SyedHasnat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Pthton For Eeverybody by Dr/Cuck</h1>
+<h3 align="left"> Chapter 2(Variables, expressions and statement</h3>
+<h3 align="left"> Chapter 3(Conditional Execution</h3>
+<h3 align="left"> Chapter 4(Functions</h3>
+<h3 align="left"> Chapter 5(Iterations</h3>
+<h3 align="left"> Chapter 6(Strings</h3>
+<h3 align="left"> Chapter 8(Lists</h3>
+<h3 align="left"> File Handing(Lists</h3>
+<h3 align="left"> Matplotkib Overview(Lists</h3>
+<h3 align="left">Connect with me:</h3>
