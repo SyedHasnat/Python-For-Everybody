@@ -7,4 +7,5 @@
 <h3 align="left"> - Chapter 8(Lists</h3>
 <h3 align="left"> - File Handing(Lists</h3>
 <h3 align="left"> - Matplotkib Overview(Lists</h3>
-<h3 align="left"> - If there is any mistake or an issue, 📫 contact at <a href="eng.syed.its@gmail.com"></a>
+<h3 align="left"> - If there is any mistake or an issue,
+  - 📫 Contact me at eng.syed.its@gmail.com
